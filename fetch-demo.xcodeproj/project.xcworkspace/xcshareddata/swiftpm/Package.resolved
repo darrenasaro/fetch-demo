@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CoreStore",
+        "repositoryURL": "https://github.com/JohnEstropia/CoreStore",
+        "state": {
+          "branch": null,
+          "revision": "496145761ab30e8cf1c44220c0882b95e6b41077",
+          "version": "8.1.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
