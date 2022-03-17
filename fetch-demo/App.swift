@@ -1,10 +1,3 @@
-//
-//  fetch_demoApp.swift
-//  fetch-demo
-//
-//  Created by daze cam on 3/17/22.
-//
-
 import SwiftUI
 import CoreImage
 import CoreStore
